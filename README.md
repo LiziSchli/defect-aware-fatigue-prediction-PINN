@@ -1,6 +1,6 @@
-# defect-aware-fatigue-prediction
+# defect-aware-fatigue-prediction: physics-guided neural network extension
 
-This project demonstrates a Python-based workflow for predicting fatigue life from defect descriptors in additively manufactured materials. The workflow includes data cleaning, feature engineering, model training, cross-validation, and performance visualisation. The example data are anonymised/simulated to protect project confidentiality.
+This repository extends the baseline defect-aware fatigue prediction workflow by adding a lightweight physics-guided neural network.
 
 ## Business / Scientific Problem
 
